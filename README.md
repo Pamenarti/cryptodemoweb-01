@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
-
+![alt text](image.png)
 Modern tasarıma sahip, Tailwind CSS ve modern web teknolojileri kullanılarak geliştirilmiş kripto para platformu.
 
 ## ✨ Özellikler
@@ -13,7 +13,7 @@ Modern tasarıma sahip, Tailwind CSS ve modern web teknolojileri kullanılarak g
 - 🚀 Performans odaklı yapı
 - 📱 Mobil uyumlu tasarım
 - 🎨 Modern animasyonlar
-![alt text](image.png)
+
 ## 🛠 Teknolojiler
 
 - Tailwind CSS

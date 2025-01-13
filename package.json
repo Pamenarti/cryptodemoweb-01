@@ -1,0 +1,15 @@
+{
+  "name": "staking-platform",
+  "version": "1.0.0",
+  "description": "Modern staking platform",
+  "scripts": {
+    "dev": "live-server",
+    "build:css": "tailwindcss -i ./styles.css -o ./dist/styles.css --watch"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "live-server": "^1.2.2",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.2"
+  }
+}

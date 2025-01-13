@@ -13,7 +13,7 @@ Modern tasarıma sahip, Tailwind CSS ve modern web teknolojileri kullanılarak g
 - 🚀 Performans odaklı yapı
 - 📱 Mobil uyumlu tasarım
 - 🎨 Modern animasyonlar
-
+![alt text](image.png)
 ## 🛠 Teknolojiler
 
 - Tailwind CSS

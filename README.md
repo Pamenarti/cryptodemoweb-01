@@ -78,9 +78,7 @@ Bu proje MIT lisansı ile lisanslanmıştır. Detaylar için [LICENSE](LICENSE) 
 
 ## 📞 İletişim
 
-Proje Sahibi - [@twitter_handle](https://twitter.com/twitter_handle)
+Proje Sahibi - [@pamenarti](https://twitter.com/pamenarti)
 
-Proje Linki: [https://github.com/kullanici/crypto-platform](https://github.com/kullanici/crypto-platform)
+Proje Linki: [https://github.com/Pamenarti/cryptodemoweb-01](https://github.com/Pamenarti/cryptodemoweb-01)
 
----
-⭐️ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
